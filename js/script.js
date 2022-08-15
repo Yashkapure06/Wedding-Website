@@ -23,6 +23,10 @@ $(document).on('click', function(){
     // console.log('Shaadi me zaroor aana');
 });
 
+// add audio 
+// let mySound = new Audio('..\assets\mp3\asd1.mp3');
+// mySound.play();
+
 function pauseAudio() { 
     document.getElementById("my_audio").pause();
     // console.log('Shaadi me pakka aana');
